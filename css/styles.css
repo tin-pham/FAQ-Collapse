@@ -35,14 +35,6 @@ body {
   font-size: 1.25rem;
 }
 
-.dropdown-list .dropdown .question::after {
-  content: '\f13a';
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 400;
-  position: absolute;
-  right: 0;
-}
-
 .dropdown-list .answer {
   display: none;
 }

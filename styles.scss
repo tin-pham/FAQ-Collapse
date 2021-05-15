@@ -30,13 +30,6 @@ body {
     .question {
       margin-bottom: 1rem;
       font-size: 1.25rem;
-      &::after {
-        content: '\f13a';
-        font-family: 'Font Awesome 5 Free';
-        font-weight: 400;
-        position: absolute;
-        right: 0;
-      }
     }
   }
 
